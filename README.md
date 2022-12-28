@@ -1,2 +1,4 @@
-# CS_Assignment_01_linear_Regression
-Linear Regression
+# CS5783-Assignment-01-linear-Regression
+
+
+Coding linear regression algorithm from scratch using gradient descent. 
